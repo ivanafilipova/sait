@@ -22,10 +22,31 @@
 #nav-img-link {
     position: absolute;
     z-index: 10;
-    top: 2vw;
+    top: 2.5vw;
 }
 
 #carussel-container {
     size: 100vw;
+
+}
+
+.language-button {
+    position:absolute;
+    background-color: #47599E !important; 
+    border-color: #47599E;
+   
+
+}
+
+.active {
+    background-color: #222c53 !important;
+    border-color: #222c53 !important;
+}
+
+#language-button-container {
+    position:absolute;
+    z-index: 10;
+    top: 2.1vw;
+    left: 67vw
 
 }
