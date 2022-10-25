@@ -1,23 +1,31 @@
-#nav-img{
-    width: 3.2vw;
+#nav-img {
+    width: 20vw;
+    position: absolute;
+    top: -1.2vw;
+    left: 20.6vw;
 }
 
-.nav-link{
-    font-size: 1.6vw;
-    margin-right: 1.15vw;
+.nav-link {
+    font-size: 1.4vw;
+    margin-right: 1.5vw;
 }
 
-#navbar{
+#navbar {
     position: absolute;
     z-index: 10;
-    left: 13vw;
-    top: 2vw;
+    top: 5vw;
+    left: 22vw;
     border: transparent;
     border-radius: 3vw;
 }
 
-#nav-img-link{
+#nav-img-link {
     position: absolute;
     z-index: 10;
     top: 2vw;
+}
+
+#carussel-container {
+    size: 100vw;
+
 }
