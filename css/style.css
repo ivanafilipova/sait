@@ -1,0 +1,23 @@
+#nav-img{
+    width: 3.2vw;
+}
+
+.nav-link{
+    font-size: 1.6vw;
+    margin-right: 1.15vw;
+}
+
+#navbar{
+    position: absolute;
+    z-index: 10;
+    left: 13vw;
+    top: 2vw;
+    border: transparent;
+    border-radius: 3vw;
+}
+
+#nav-img-link{
+    position: absolute;
+    z-index: 10;
+    top: 2vw;
+}
