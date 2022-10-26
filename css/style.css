@@ -31,10 +31,10 @@
 }
 
 .language-button {
-    position:absolute;
-    background-color: #47599E !important; 
+    position: absolute;
+    background-color: #47599E !important;
     border-color: #47599E;
-   
+
 
 }
 
@@ -44,9 +44,28 @@
 }
 
 #language-button-container {
-    position:absolute;
+    position: absolute;
     z-index: 10;
     top: 2.1vw;
-    left: 67vw
+    left: 67vw;
+}
 
+.button-on-carussel {
+    width: 6vw;
+    position: absolute;
+    left: 50vw;
+    z-index: 11;
+    top: 36vw
+}
+
+#button-act-carussel {
+    color: #9e4790 !important;
+    
+}
+
+.carussel-imgs {
+    width: 70vw;
+    position: absolute border: transparent;
+    border-radius: 3vw;
+    
 }
