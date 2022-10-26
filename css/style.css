@@ -60,12 +60,13 @@
 
 #button-act-carussel {
     color: #9e4790 !important;
-    
+
 }
 
 .carussel-imgs {
-    width: 70vw;
-    position: absolute border: transparent;
-    border-radius: 3vw;
-    
+    width: 73vw;
+    border: transparent;
+    border-bottom-left-radius: 3vw;
+    border-bottom-right-radius: 3vw;
+    left: -0.5vw
 }
