@@ -26,7 +26,9 @@
 }
 
 #carussel-container {
-    size: 100vw;
+    position:absolute;
+    width: 73vw !important;
+    left: 12vw;
 
 }
 
@@ -64,9 +66,9 @@
 }
 
 .carussel-imgs {
-    width: 73vw;
+    width: 87vw !important;
     border: transparent;
     border-bottom-left-radius: 3vw;
     border-bottom-right-radius: 3vw;
-    left: -0.5vw
+    left: -6.5vw
 }
