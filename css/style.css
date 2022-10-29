@@ -7,7 +7,7 @@
 
 .nav-link {
     font-size: 1.4vw;
-    margin-right: 1.5vw;
+    margin-right: 1vw;
 }
 
 #navbar {
@@ -17,6 +17,7 @@
     left: 22vw;
     border: transparent;
     border-radius: 3vw;
+    width: 54,1vw
 }
 
 #nav-img-link {
@@ -29,15 +30,15 @@
     position:absolute;
     width: 73vw !important;
     left: 12vw;
-
 }
 
 .language-button {
     position: absolute;
     background-color: #47599E !important;
     border-color: #47599E;
-
-
+    size: 2.5vw;
+    left: -3vw;
+    top: 0vw;
 }
 
 .active {
@@ -62,13 +63,40 @@
 
 #button-act-carussel {
     color: #9e4790 !important;
-
 }
 
 .carussel-imgs {
-    width: 87vw !important;
+    width: 90vw !important;
     border: transparent;
     border-bottom-left-radius: 3vw;
     border-bottom-right-radius: 3vw;
-    left: -6.5vw
+    left: -8vw
 }
+
+#card-body {
+    position: absolute;
+    border: transparent;
+    border-radius: 3vw;
+    top: 10vw;
+    background-color: #47599E;
+    width: 65vw;
+    top: 50vw
+}
+
+.card {
+    position:absolute;
+    top: 45vw;
+}
+
+#card-index-1 {
+    left: 10vw;
+}
+
+#card-index-2 {
+    left: 39.3vw;
+}
+
+#card-index-3 {
+    left: 68vw;
+}
+
